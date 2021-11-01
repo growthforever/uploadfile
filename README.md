@@ -1,4 +1,4 @@
-git clone https://github.com/growthforever/nodejs_upload_file.git
+git clone https://github.com/growthforever/uploadfile.git
 
 cd uploadfile
 
